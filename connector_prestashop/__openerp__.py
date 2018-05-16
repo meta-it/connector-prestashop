@@ -3,11 +3,12 @@
 # Copyright 2011-2013 Akretion
 # Copyright 2015 AvanzOSC
 # Copyright 2015-2016 Tecnativa
+# Copyright 2018 Meta IT
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
     "name": "PrestaShop-Odoo connector",
-    "version": "8.0.1.0.4",
+    "version": "8.0.1.0.5",
     "license": "AGPL-3",
     "depends": [
         "account",
@@ -29,6 +30,7 @@
               "Camptocamp,"
               "AvanzOSC,"
               "Tecnativa,"
+              "Meta IT,"
               "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/connector-prestashop",
     "category": "Connector",
